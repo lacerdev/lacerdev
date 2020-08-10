@@ -1,16 +1,14 @@
-### Hi there 👋
+# André Lacerda da Silva
 
-<!--
-**lasdeparq/lasdeparq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou um aficionado por tecnologia e apaixonado por futebol e boa música.
+Sou um Desenvolvedor Fullstack :desktop_computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :office:  &nbsp; Atualmente trabalho na [**Dígitro Tecnologia**](https://www.digitro.com/)
+ <br/> :green_heart: &nbsp; Buscando evoluir a colaboração na comunidade aberta e me aperfeiçoar nas tecnologias VueJS, NodeJS e NativeScript. 
+ <br/> :blush: &nbsp; Posso te ajudar com CSS, JavaScript em geral, NodeJS e Java. Mesmo se eu não souber, eu topo te ajudar, e aí descobrimos juntos! :grinning:
+ <br/> :computer: &nbsp; Minha stack predileta: VueJS, Node.js & TypeScript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, PES, CS:GO e seriados. Sou um Flamenguista fanático :black_heart::heart:
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-andrelacerdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrelacerdas/)](https://www.linkedin.com/in/andrelacerdas/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-andrelacerdasc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrelacerdasc@gmail.com)](mailto:andrelacerdasc@gmail.com)
