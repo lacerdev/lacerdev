@@ -5,7 +5,7 @@ Sou um aficionado por tecnologia e apaixonado por futebol e boa música.
 Sou um Desenvolvedor Fullstack :desktop_computer:
 
  :office:  &nbsp; Atualmente trabalho na [**Dígitro Tecnologia**](https://www.digitro.com/)
- <br/> :green_heart: &nbsp; Buscando evoluir a colaboração na comunidade aberta e me aperfeiçoar nas tecnologias VueJS, NativeScript, React + React Native e NodeJS. 
+ <br/> :green_heart: &nbsp; Buscando evoluir a colaboração na comunidade aberta e me aperfeiçoar nas tecnologias VueJS, NativeScript, React + React Native, Flutter e NodeJS. 
  <br/> :blush: &nbsp; Posso te ajudar com CSS, JavaScript em geral, NodeJS e Java. Mesmo se eu não souber, eu topo te ajudar, e aí descobrimos juntos! :grinning:
  <br/> :sunglasses: &nbsp; Minha stack predileta: VueJS, Node.js & TypeScript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, PES, CS:GO e seriados. Sou um Flamenguista fanático :black_heart::heart:
