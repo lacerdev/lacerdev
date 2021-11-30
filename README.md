@@ -11,4 +11,4 @@ Sou um Desenvolvedor Fullstack :desktop_computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, PES, CS:GO e seriados. Sou um Flamenguista fanático :black_heart::heart:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-andrelacerdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrelacerdas/)](https://www.linkedin.com/in/andrelacerdas/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-lasdeparq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lasdeparq@gmail.com)](mailto:lasdeparq@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lacerdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lacerdev@gmail.com)](mailto:lacerdev@gmail.com)
